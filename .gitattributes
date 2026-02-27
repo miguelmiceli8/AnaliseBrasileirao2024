@@ -1,6 +1,3 @@
 # Ignora notebooks na contagem de linguagens do GitHub
 *.ipynb linguist-vendored
 
-# (opcional) Ignora CSVs e dados
-*.csv linguist-vendored
-*.txt linguist-vendored
